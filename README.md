@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-This project is a fully responsive clone of ToDesktop website's homepage, developed using **HTML**, **CSS**, and the **Tailwind CSS** framework. The project demonstrates the application of modern web development practices and responsive design principles.
+This project is a fully responsive clone of [Todesktop](https://www.todesktop.com/) website's homepage, developed using **HTML**, **CSS**, and the **Tailwind CSS** framework. The project demonstrates the application of modern web development practices and responsive design principles.
 
 ## 🚀 Live Demo
 
