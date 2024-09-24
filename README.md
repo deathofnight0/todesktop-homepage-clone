@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-This project is a fully responsive clone of a website, developed using **HTML**, **CSS**, and the **Tailwind CSS** framework. The project demonstrates the application of modern web development practices and responsive design principles.
+This project is a fully responsive clone of ToDesktop website's homepage, developed using **HTML**, **CSS**, and the **Tailwind CSS** framework. The project demonstrates the application of modern web development practices and responsive design principles.
 
 ## 🚀 Live Demo
 
@@ -23,4 +23,4 @@ You can view the live demo of the website here: [Tailwind CSS Website Clone](htt
 
 ## Credits
 
-This project is a clone of an existing website to demonstrate web development skills using **Tailwind CSS**.
+This project is a clone of ToDesktop website's homepage to demonstrate web development skills using **Tailwind CSS**.
